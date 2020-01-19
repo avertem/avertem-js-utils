@@ -1,0 +1,29 @@
+{
+  "name": "avertem-js-utils",
+  "version": "1.0.0",
+  "description": "avertem javascript utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avertem/avertem-js-utils.git"
+  },
+  "keywords": [
+    "avertem"
+  ],
+  "author": "Brett Chaldecott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avertem/avertem-js-utils/issues"
+  },
+  "homepage": "https://github.com/avertem/avertem-js-utils#readme",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "buffer": "^5.4.3",
+    "hdkey": "^1.1.1",
+    "js-sha256": "^0.9.0",
+    "store": "^2.0.12"
+  }
+}
