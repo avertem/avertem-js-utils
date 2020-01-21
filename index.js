@@ -1,4 +1,4 @@
-var AvertemKey = require('lib/key')
+var AvertemKey = require('lib/key.js')
+var Transaction = require('lib/transaction.js')
 
-module.exports = { AvertemKey
-}
+module.exports = [AvertemKey,Transaction]
