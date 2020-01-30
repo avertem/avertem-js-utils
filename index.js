@@ -1,5 +1,3 @@
-var AvertemKey = require('./lib/key')
-var Transaction = require('./lib/transaction')
-var AvertemStore = require('./lib/store')
+import { AvertemKey, Transaction, AvertemStore } from './lib';
 
 module.exports = {AvertemKey,Transaction,AvertemStore};
